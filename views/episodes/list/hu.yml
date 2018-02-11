@@ -10,3 +10,4 @@ hu:
         one: "%{count} hozzászólás"
         other: "%{count} hozzászólás"
       not_published_message: "Még nincs közzétéve"
+
